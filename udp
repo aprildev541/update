@@ -1,1 +1,1 @@
-{"ConfigVersion": "16","ConfigUpdateMsg": "Welcome","ApkVersion": 1,"ApkUrl": "http://firehubvpn.site/files/firehub_udp.apk","ApkMsg": "Firehub","Servers": [{"SubInfo":"SERVER - 001 prm","Server":"udp-001.bunnyvpn.xyz","Location":"sg"}]}
+{"ConfigVersion": "16","ConfigUpdateMsg": "Welcome","ApkVersion": 1,"ApkUrl": "http://firehubvpn.site/files/firehub_udp.apk","ApkMsg": "Firehub","Servers": [{"SubInfo":"SERVER - 001","Server":"udp-001.bunnyvpn.xyz","Location":"sg"}]}
